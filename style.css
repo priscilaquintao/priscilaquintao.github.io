@@ -2,7 +2,7 @@ body {
     background-color: #f88493d7;
     font-family: "Patua One", sans-serif;
 }
-#titulos{
+h1 {
     font-family: "Dancing Script", sans-serif;
     text-align: center;
     font-weight: 500 px;
@@ -11,6 +11,15 @@ body {
     background-image: url(imagens/fundo-titulo.jpg);
     background-size: 100%;
     background-position: 50% 30%;
+    margin-top: 0px;
+    padding: 25px;
+}
+h2 {
+    font-family: "Dancing Script", sans-serif;
+    text-align: center;
+    font-weight: 500 px;
+    color: #faeff1;
+    font-size: 40px;
     margin-top: 0px;
     padding: 25px;
 }
