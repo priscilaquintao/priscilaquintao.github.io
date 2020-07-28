@@ -5,7 +5,7 @@ body {
 h1 {
     font-family: "Dancing Script", sans-serif;
     text-align: center;
-    font-weight: 500 px;
+    font-weight: 300 px;
     color: #faeff1;
     font-size: 40px;
     background-image: url(imagens/fundo-titulo.jpg);
@@ -17,7 +17,7 @@ h1 {
 h2 {
     font-family: "Dancing Script", sans-serif;
     text-align: center;
-    font-weight: 500 px;
+    font-weight: 300 px;
     color: #faeff1;
     font-size: 40px;
     margin-top: 0px;
