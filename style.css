@@ -1,0 +1,28 @@
+body {
+    background-color: #f88493d7;
+    font-family: "Patua One", sans-serif;
+}
+#titulos{
+    font-family: "Dancing Script", sans-serif;
+    text-align: center;
+    font-weight: 500 px;
+    color: #faeff1;
+    font-size: 40px;
+    background-image: url(imagens/fundo-titulo.jpg);
+    background-size: 100%;
+    background-position: 50% 30%;
+    margin-top: 0px;
+    padding: 25px;
+}
+figure {
+    text-align: center;
+}
+img {
+    border-radius: 20%;
+    float: left;
+    max-width: 40%;
+    padding: 15px;
+}
+p {
+    font-size: 20px;
+}
